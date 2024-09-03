@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shivam
+## Hi there 👋, I'm Shivam
 
 <!--
 **ShivamR01/ShivamR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=shivamR01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivamR01&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamR01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivamR01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
