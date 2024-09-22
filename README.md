@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on secret project
 - 🌱 I’m currently learning webDev
 - 👯 I’m looking to collaborate on webdev projects
-- 📫 How to reach me: shivamkumarmain2@gmail.com
-                       realcoder24@gmail.com
+- 📫 How to reach me: shivamkumarmain2@gmail.com, realcoder24@gmail.com
  <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
